@@ -1,0 +1,31 @@
+.navvy {
+    background-color: #adb5bd!important;
+    height: 200px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.carousel-inner {
+    height: 450px;
+}
+
+.shop {
+    display: flex;
+
+}
+
+.brands {
+    background-color: grey;
+    height: 300px;
+
+}
+.brand-img {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+.foot1 {
+    height: 100px;
+    background-color: grey;
+}

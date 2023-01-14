@@ -1,0 +1,22 @@
+.cart {
+    background-color: black;
+    border-color: grey;
+    width: 150px;
+}
+.ship {
+    background-color: black;
+    border-color: grey;
+    width: 100px;
+    font-weight: bold;
+    font-size: 10px;
+}
+#container {
+    text-align: right;
+}
+p {
+    margin-right: 20px;
+}
+#items {
+    text-align: left;
+    overflow: ;
+}

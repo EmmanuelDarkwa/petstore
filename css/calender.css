@@ -1,0 +1,26 @@
+
+}
+body {
+    font-size: 1rem;
+    color: #1d2124;
+    align-content: center;
+}
+
+.con1 {
+    background-color: teal;
+}
+.col2{
+    height: 300px;
+    background-color: teal;
+}
+
+
+}
+.container-one {
+    height: 300px;
+    background-color: grey;
+}
+
+.navbg {
+    background-color: #1d6d7a!important;
+}
